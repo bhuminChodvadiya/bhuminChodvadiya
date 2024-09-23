@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhuminChodvadiya
+- 👋 Hi, I’m bhuminChodvadiya
 - 👀 I’m interested in Machine Learning and Computer Vision.
 - 🌱 I’m currently learning autonomous technology, deep learning and programming.
 
