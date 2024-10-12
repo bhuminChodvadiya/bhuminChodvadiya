@@ -1,6 +1,6 @@
 - 👋 Hi, I’m bhuminChodvadiya
-- 👀 I’m interested in Machine Learning and Computer Vision.
-- 🌱 I’m currently learning autonomous technology, deep learning and programming.
+- 👀 I’m interested in AI, Machine Learning and Computer Vision.
+- 🌱 I’m currently learning autonomous technology, deep learning and programming for future development to solve complex problem.
 
 
 <!---
